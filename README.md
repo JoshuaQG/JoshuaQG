@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋  
+  ![info](https://github-readme-stats.vercel.app/api?username=JoshuaQG&show_icons=true&count_private=true&hide=prs&theme=default_repocard)  
+- I'm Joshua, a code editor.  
+- 🔭 I’m currently working on ChangChun.  
+- 🌱 I’m currently learning 《Data structure and algorithms》  
+- 📫 My E-mail: joshuaqguo@gmail.com  
+[![](https://img.shields.io/badge/-Language-007396?style=flat-square&logo=C&logoColor=ffffff)](https://reactjs.org/)  [![](https://img.shields.io/badge/OS-Ubuntu%20-33aadd?style=flat-square&logo=Ubuntu&logoColor=ffffff)](https://www.ubuntu.org/)  ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-VSCode-blue)  ![](https://img.shields.io/badge/%E5%86%99%E4%BD%9C%E5%B7%A5%E5%85%B7-Vim-red)   [![](https://img.shields.io/badge/iPhone-12Pro-f5010c?style=flat-square&logo=Apple&logoColor=ffffff)](https://www.apple.com/)
 
 <!--
 **JoshuaQG/JoshuaQG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
